@@ -6,7 +6,8 @@ It basically was a clone of different aspects taken from different social media 
 
 Exposure : Django Framework in Python, HTML, CSS, JS, Debugging
 
-Name of the Social Networking Site : Star Social
+Name of the Social Networking Site : Star Social.
+
 The website is meant for those interested in knowledge about Space and Solar Sytems.
 The site involves Various Features like:
                   - Users can create their accounts
