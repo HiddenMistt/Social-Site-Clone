@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.websitename{
+    font-family: 'Russo One', sans-serif;
+    font-size: 3em;
+}
