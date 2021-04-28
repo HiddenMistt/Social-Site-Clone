@@ -12,7 +12,7 @@ var persons = [],
   birthToGive = 25;
 
 var colors = [];
-/* Galactic Tea - http://www.colourlovers.com/palette/1586746/Galactic_Tea*/
+
 colors[2] = [];
 colors[2]['background'] = '#2F294F';
 colors[2][1] = 'rgba(74,49,89,';
